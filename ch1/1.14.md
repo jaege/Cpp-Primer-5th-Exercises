@@ -1,0 +1,3 @@
+`for` has a scope where you can define temporary variables and used inside loop.
+
+`while` is simple and apporiate for situations where the loop time is unknown before the loop.
