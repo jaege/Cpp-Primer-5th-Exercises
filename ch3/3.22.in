@@ -1,0 +1,10 @@
+Some vector Operations Invalidate Iterators
+
+In § 3.3.2 (p. 101) we noted that there are implications of the fact that vectors can grow dynamically.
+We also noted that one such implication is that we cannot add elements to a vector inside a range for loop.
+Another implication is that any operation, such as push_back, that changes the size of a vector potentially invalidates all iterators into that vector.
+We'll explore how iterators become invalid in more detail in § 9.3.6 (p. 353).
+
+Incrementing an iterator moves the iterator one element at a time.
+All the library containers have iterators that support increment.
+Similarly, we can use == and != to compare two valid iterators (§ 3.4, p. 106) into any of the library container types.
