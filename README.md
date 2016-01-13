@@ -1,4 +1,6 @@
-# Cpp-Primer-5th-Exercises
+# Solutions to Exercises in **C++ Primer** 5th Edition
+
+This repo is the solutions to exercises in book _C++ Primer_ (5th Edition). All files except explicitly announced are under [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
 
 ### Contents
 
@@ -39,15 +41,15 @@
 [21](ch4/4.21.cpp)|[22](ch4/4.22.cpp)|[23](ch4/4.23.cpp)|[24](ch4/4.24.md)|[25](ch4/4.25.md)|[26](ch4/4.26.md)|[27](ch4/4.27.cpp)|[28](ch4/4.28.cpp)|[29](ch4/4.29.cpp)|[30](ch4/4.30.md)|
 [31](ch4/4.31.cpp)|[32](ch4/4.32.cpp)|[33](ch4/4.33.md)|[34](ch4/4.34.md)|[35](ch4/4.35.cpp)|[36](ch4/4.36.cpp)|[37](ch4/4.37.cpp)|[38](ch4/4.38.md)
 
-<!---
-#### Chapter 5 [](ch5)
+#### Chapter 5 [Statements](ch5)
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 --:|--:|--:|--:|--:|--:|--:|--:|--:|--:
-[1](ch5/5.1.cpp)|[2](ch5/5.2.cpp)|[3](ch5/5.3.cpp)|[4](ch5/5.4.cpp)|[5](ch5/5.5.cpp)|[6](ch5/5.6.cpp)|[7](ch5/5.7.cpp)|[8](ch5/5.8.cpp)|[9](ch5/5.9.cpp)|[10](ch5/5.10.cpp)|
-[11](ch5/5.11.cpp)|[12](ch5/5.12.cpp)|[13](ch5/5.13.cpp)|[14](ch5/5.14.cpp)|[15](ch5/5.15.cpp)|[16](ch5/5.16.cpp)|[17](ch5/5.17.cpp)|[18](ch5/5.18.cpp)|[19](ch5/5.19.cpp)|[20](ch5/5.20.cpp)|
-[21](ch5/5.21.cpp)|[22](ch5/5.22.cpp)|[23](ch5/5.23.cpp)|[24](ch5/5.24.cpp)|[25](ch5/5.25.cpp)
+[1](ch5/5.1.md))|[2](ch5/5.2.md)|[3](ch5/5.3.cpp)|[4](ch5/5.4.md)|[5](ch5/5.5.cpp)|[6](ch5/5.6.cpp)|[7](ch5/5.7.md)|[8](ch5/5.8.md)|[9](ch5/5.9.cpp)|[10](ch5/5.10.cpp)|
+[11](ch5/5.11.cpp)|[12](ch5/5.12.cpp)|[13](ch5/5.13.md)|[14](ch5/5.14.cpp)|[15](ch5/5.15.md)|[16](ch5/5.16.cpp)|[17](ch5/5.17.cpp)|[18](ch5/5.18.md)|[19](ch5/5.19.cpp)|[20](ch5/5.20.cpp)|
+[21](ch5/5.21.cpp)|[22](ch5/5.22.md)|[23](ch5/5.23.cpp)|[24](ch5/5.24.cpp)|[25](ch5/5.25.cpp)
 
+<!---
 #### Chapter 6 [](ch6)
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
