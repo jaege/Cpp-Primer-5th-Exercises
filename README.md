@@ -1,6 +1,6 @@
 # Solutions to Exercises in **C++ Primer** 5th Edition
 
-This repo is the solutions to exercises in book _C++ Primer_ (5th Edition). All files except explicitly announced are under [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
+This repo is the solutions to exercises in book [_C++ Primer_ (5th Edition)](http://www.informit.com/store/c-plus-plus-primer-9780321714114). All files except explicitly announced are under [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
 
 ### Contents
 
@@ -45,22 +45,22 @@ This repo is the solutions to exercises in book _C++ Primer_ (5th Edition). All 
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 --:|--:|--:|--:|--:|--:|--:|--:|--:|--:
-[1](ch5/5.1.md))|[2](ch5/5.2.md)|[3](ch5/5.3.cpp)|[4](ch5/5.4.md)|[5](ch5/5.5.cpp)|[6](ch5/5.6.cpp)|[7](ch5/5.7.md)|[8](ch5/5.8.md)|[9](ch5/5.9.cpp)|[10](ch5/5.10.cpp)|
+[1](ch5/5.1.md)|[2](ch5/5.2.md)|[3](ch5/5.3.cpp)|[4](ch5/5.4.md)|[5](ch5/5.5.cpp)|[6](ch5/5.6.cpp)|[7](ch5/5.7.md)|[8](ch5/5.8.md)|[9](ch5/5.9.cpp)|[10](ch5/5.10.cpp)|
 [11](ch5/5.11.cpp)|[12](ch5/5.12.cpp)|[13](ch5/5.13.md)|[14](ch5/5.14.cpp)|[15](ch5/5.15.md)|[16](ch5/5.16.cpp)|[17](ch5/5.17.cpp)|[18](ch5/5.18.md)|[19](ch5/5.19.cpp)|[20](ch5/5.20.cpp)|
 [21](ch5/5.21.cpp)|[22](ch5/5.22.md)|[23](ch5/5.23.cpp)|[24](ch5/5.24.cpp)|[25](ch5/5.25.cpp)
 
-<!---
-#### Chapter 6 [](ch6)
+#### Chapter 6 [Functions](ch6)
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 --:|--:|--:|--:|--:|--:|--:|--:|--:|--:
-[1](ch6/6.1.cpp)|[2](ch6/6.2.cpp)|[3](ch6/6.3.cpp)|[4](ch6/6.4.cpp)|[5](ch6/6.5.cpp)|[6](ch6/6.6.cpp)|[7](ch6/6.7.cpp)|[8](ch6/6.8.cpp)|[9](ch6/6.9.cpp)|[10](ch6/6.10.cpp)|
-[11](ch6/6.11.cpp)|[12](ch6/6.12.cpp)|[13](ch6/6.13.cpp)|[14](ch6/6.14.cpp)|[15](ch6/6.15.cpp)|[16](ch6/6.16.cpp)|[17](ch6/6.17.cpp)|[18](ch6/6.18.cpp)|[19](ch6/6.19.cpp)|[20](ch6/6.20.cpp)|
-[21](ch6/6.21.cpp)|[22](ch6/6.22.cpp)|[23](ch6/6.23.cpp)|[24](ch6/6.24.cpp)|[25](ch6/6.25.cpp)|[26](ch6/6.26.cpp)|[27](ch6/6.27.cpp)|[28](ch6/6.28.cpp)|[29](ch6/6.29.cpp)|[30](ch6/6.30.cpp)|
-[31](ch6/6.31.cpp)|[32](ch6/6.32.cpp)|[33](ch6/6.33.cpp)|[34](ch6/6.34.cpp)|[35](ch6/6.35.cpp)|[36](ch6/6.36.cpp)|[37](ch6/6.37.cpp)|[38](ch6/6.38.cpp)|[39](ch6/6.39.cpp)|[40](ch6/6.40.cpp)|
-[41](ch6/6.41.cpp)|[42](ch6/6.42.cpp)|[43](ch6/6.43.cpp)|[44](ch6/6.44.cpp)|[45](ch6/6.45.cpp)|[46](ch6/6.46.cpp)|[47](ch6/6.47.cpp)|[48](ch6/6.48.cpp)|[49](ch6/6.49.cpp)|[50](ch6/6.50.cpp)|
-[51](ch6/6.51.cpp)|[52](ch6/6.52.cpp)|[53](ch6/6.53.cpp)|[54](ch6/6.54.cpp)|[55](ch6/6.55.cpp)|[56](ch6/6.56.cpp)
+[1](ch6/6.1.md)|[2](ch6/6.2.md)|[3](ch6/6.3.cpp)|[4](ch6/6.4.cpp)|[5](ch6/6.5.cpp)|[6](ch6/6.6.md)|[7](ch6/6.7.cpp)|[8](ch6/6.8/Chapter6.h)|[9](ch6/6.9)|[10](ch6/6.10.cpp)|
+[11](ch6/6.11.cpp)|[12](ch6/6.12.cpp)|[13](ch6/6.13.md)|[14](ch6/6.14.md)|[15](ch6/6.15.md)|[16](ch6/6.16.md)|[17](ch6/6.17.cpp)|[18](ch6/6.18.md)|[19](ch6/6.19.md)|[20](ch6/6.20.md)|
+[21](ch6/6.21.cpp)|[22](ch6/6.22.cpp)|[23](ch6/6.23.cpp)|[24](ch6/6.24.md)|[25](ch6/6.25.cpp)|[26](ch6/6.26.cpp)|[27](ch6/6.27.cpp)|[28](ch6/6.28.md)|[29](ch6/6.29.md)|[30](ch6/6.30.cpp)|
+[31](ch6/6.31.md)|[32](ch6/6.32.cpp)|[33](ch6/6.33.cpp)|[34](ch6/6.34.md)|[35](ch6/6.35.md)|[36](ch6/6.36.cpp)|[37](ch6/6.37.cpp)|[38](ch6/6.38.cpp)|[39](ch6/6.39.md)|[40](ch6/6.40.md)|
+[41](ch6/6.41.md)|[42](ch6/6.42.cpp)|[43](ch6/6.43.md)|[44](ch6/6.44.cpp)|[45](ch6/6.45.cpp)|[46](ch6/6.46.md)|[47](ch6/6.47.cpp)|[48](ch6/6.48.md)|[49](ch6/6.49.md)|[50](ch6/6.50.md)|
+[51](ch6/6.51.cpp)|[52](ch6/6.52.md)|[53](ch6/6.53.md)|[54](ch6/6.54.cpp)|[55](ch6/6.55.cpp)|[56](ch6/6.56.md)
 
+<!---
 #### Chapter 7 [](ch7)
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
