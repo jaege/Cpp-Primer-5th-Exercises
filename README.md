@@ -78,8 +78,7 @@ This repo is the solutions to exercises in book [_C++ Primer_ (5th Edition)](htt
 [1](ch8/8.1.cpp)|[2](ch8/8.2.md)|[3](ch8/8.3.md)|[4](ch8/8.4.cpp)|[5](ch8/8.5.cpp)|[6](ch8/8.6.cpp)|[7](ch8/8.7.cpp)|[8](ch8/8.8.cpp)|[9](ch8/8.9.cpp)|[10](ch8/8.10.cpp)|
 [11](ch8/8.11.cpp)|[12](ch8/8.12.md)|[13](ch8/8.13.cpp)|[14](ch8/8.14.md)
 
-<!---
-#### Chapter 9 [](ch9)
+#### Chapter 9 [Sequential Containers](ch9)
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 --:|--:|--:|--:|--:|--:|--:|--:|--:|--:
@@ -90,6 +89,7 @@ This repo is the solutions to exercises in book [_C++ Primer_ (5th Edition)](htt
 [41](ch9/9.41.cpp)|[42](ch9/9.42.cpp)|[43](ch9/9.43.cpp)|[44](ch9/9.44.cpp)|[45](ch9/9.45.cpp)|[46](ch9/9.46.cpp)|[47](ch9/9.47.cpp)|[48](ch9/9.48.cpp)|[49](ch9/9.49.cpp)|[50](ch9/9.50.cpp)|
 [51](ch9/9.51.cpp)|[52](ch9/9.52.cpp)
 
+<!---
 #### Chapter 10 [](ch10)
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
