@@ -1,6 +1,7 @@
 #include <string>
 #include <iostream>
 
+// Pointerlike version
 class HasPtr {
 public:
   HasPtr(const std::string &s = std::string())
