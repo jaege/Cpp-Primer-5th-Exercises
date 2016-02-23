@@ -128,7 +128,6 @@ This repo is the solutions to exercises in book [_C++ Primer_ (5th Edition)](htt
 [41](ch13/13.41.md)|[42](ch13/13.42)|[43](ch13/13.43)|[44](ch13/13.44)|[45](ch13/13.45.md)|[46](ch13/13.46.cpp)|[47](ch13/13.47)|[48](ch13/13.48.md)|[49](ch13/13.49)|[50](ch13/13.50.md)|
 [51](ch13/13.51.md)|[52](ch13/13.52.md)|[53](ch13/13.53.cpp)|[54](ch13/13.54.cpp)|[55](ch13/13.55)|[56](ch13/13.56.cpp)|[57](ch13/13.57.md)|[58](ch13/13.58.md)
 
-<!---
 #### Chapter 14 [Overloaded Operations and Conversions](ch14)
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
@@ -140,6 +139,7 @@ This repo is the solutions to exercises in book [_C++ Primer_ (5th Edition)](htt
 [41](ch14/14.41.cpp)|[42](ch14/14.42.cpp)|[43](ch14/14.43.cpp)|[44](ch14/14.44.cpp)|[45](ch14/14.45.cpp)|[46](ch14/14.46.cpp)|[47](ch14/14.47.cpp)|[48](ch14/14.48.cpp)|[49](ch14/14.49.cpp)|[50](ch14/14.50.cpp)|
 [51](ch14/14.51.cpp)|[52](ch14/14.52.cpp)|[53](ch14/14.53.cpp)
 
+<!---
 #### Chapter 15 [Object-Oriented Programming](ch15)
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
