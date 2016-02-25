@@ -139,7 +139,6 @@ This repo is the solutions to exercises in book [_C++ Primer_ (5th Edition)](htt
 [41](ch14/14.41.md)|[42](ch14/14.42.cpp)|[43](ch14/14.43.cpp)|[44](ch14/14.44.cpp)|[45](ch14/14.45.cpp)|[46](ch14/14.46.md)|[47](ch14/14.47.md)|[48](ch14/14.48.md)|[49](ch14/14.49.md)|[50](ch14/14.50.cpp)|
 [51](ch14/14.51.cpp)|[52](ch14/14.52.cpp)|[53](ch14/14.53.cpp)
 
-<!---
 #### Chapter 15 [Object-Oriented Programming](ch15)
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
@@ -150,6 +149,7 @@ This repo is the solutions to exercises in book [_C++ Primer_ (5th Edition)](htt
 [31](ch15/15.31.cpp)|[32](ch15/15.32.cpp)|[33](ch15/15.33.cpp)|[34](ch15/15.34.cpp)|[35](ch15/15.35.cpp)|[36](ch15/15.36.cpp)|[37](ch15/15.37.cpp)|[38](ch15/15.38.cpp)|[39](ch15/15.39.cpp)|[40](ch15/15.40.cpp)|
 [41](ch15/15.41.cpp)|[42](ch15/15.42.cpp)
 
+<!---
 #### Chapter 16 [Templates and Generic Programming](ch16)
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
