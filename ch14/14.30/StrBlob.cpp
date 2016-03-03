@@ -59,6 +59,16 @@ ConstStrBlobPtr StrBlob::cend() const {
   return ConstStrBlobPtr(*this, data->size());
 }
 
+std::string &StrBlob::operator[](size_type n) {
+  check(n, "subscript nonexist element");
+  return (*data)[n];
+}
+
+const std::string &StrBlob::operator[](size_type n) const {
+  check(n, "subscript nonexist element");
+  return (*data)[n];
+}
+
 bool operator==(const StrBlob &lhs, const StrBlob &rhs) {
   //return lhs.data == rhs.data;  // compare identity(address)
   return *lhs.data == *rhs.data;  // compare value

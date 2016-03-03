@@ -50,6 +50,13 @@ int main() {
   testStrBlob(sb2);
   std::cout << std::endl;
   std::cout << sb2[1] << std::endl;
+  try {
+    std::cout << sb2[100] << std::endl;
+  } catch (std::out_of_range err) {
+    std::cerr << err.what() << " out of range" << std::endl;
+  } catch (std::exception err) {
+    std::cerr << err.what() << std::endl;
+  }
 
   StrBlob sb3{"ABC", "DEF"};
   StrBlob sb4 = sb3;
@@ -79,6 +86,13 @@ int main() {
   testStrBlob(csb2);
   std::cout << std::endl;
   std::cout << csb2[1] << std::endl;
+  try {
+    std::cout << csb2[100] << std::endl;
+  } catch (std::out_of_range err) {
+    std::cerr << err.what() << " out of range" << std::endl;
+  } catch (std::exception err) {
+    std::cerr << err.what() << std::endl;
+  }
 
   testStrBlob({"ppp", "qqq"});
   std::cout << std::endl;

@@ -28,9 +28,8 @@ public:
   StrBlob(const StrBlob &);
   StrBlob &operator=(const StrBlob &);
 
-  // do not check range
-  std::string &operator[](size_type n) { return (*data)[n]; }
-  const std::string &operator[](size_type n) const { return (*data)[n]; }
+  std::string &operator[](size_type n);
+  const std::string &operator[](size_type n) const;
 
   size_type size() const { return data->size(); }
   bool empty() const { return data->empty(); }
