@@ -147,9 +147,8 @@ This repo is the solutions to exercises in book [_C++ Primer_ (5th Edition)](htt
 [11](ch15/15.11.cpp)|[12](ch15/15.12.md)|[13](ch15/15.13.md)|[14](ch15/15.14.cpp)|[15](ch15/15.15.cpp)|[16](ch15/15.16.md)|[17](ch15/15.17.cpp)|[18](ch15/15.18.cpp)|[19](ch15/15.19.cpp)|[20](ch15/15.20.md)|
 [21](ch15/15.21.cpp)|[22](ch15/15.22.cpp)|[23](ch15/15.23.cpp)|[24](ch15/15.24.md)|[25](ch15/15.25.md)|[26](ch15/15.26.cpp)|[27](ch15/15.27.cpp)|[28](ch15/15.28.cpp)|[29](ch15/15.29.cpp)|[30](ch15/15.30.cpp)|
 [31](ch15/15.31.md)|[32](ch15/15.32.md)|[33](ch15/15.33.md)|[34](ch15/15.34.md)|[35](ch15/15.35)|[36](ch15/15.36.md)|[37](ch15/15.37)|[38](ch15/15.38.md)|[39](ch15/15.39)|[40](ch15/15.40.md)|
-[41](ch15/15.41)|[42](ch15/15.42)
+[41](ch15/15.41)|42
 
-<!---
 #### Chapter 16 [Templates and Generic Programming](ch16)
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
@@ -162,6 +161,7 @@ This repo is the solutions to exercises in book [_C++ Primer_ (5th Edition)](htt
 [51](ch16/16.51.cpp)|[52](ch16/16.52.cpp)|[53](ch16/16.53.cpp)|[54](ch16/16.54.cpp)|[55](ch16/16.55.cpp)|[56](ch16/16.56.cpp)|[57](ch16/16.57.cpp)|[58](ch16/16.58.cpp)|[59](ch16/16.59.cpp)|[60](ch16/16.60.cpp)|
 [61](ch16/16.61.cpp)|[62](ch16/16.62.cpp)|[63](ch16/16.63.cpp)|[64](ch16/16.64.cpp)|[65](ch16/16.65.cpp)|[66](ch16/16.66.cpp)|[67](ch16/16.67.cpp)
 
+<!---
 #### Chapter 17 [Specialized Library Facilities](ch17)
 
  1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
