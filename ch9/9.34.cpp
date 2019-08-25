@@ -8,10 +8,11 @@ int main() {
   // infinitely.
   auto iter = vi.begin();
   while (iter != vi.end()) { // The loop body should be a block.
-    if (*iter % 2)
+    if (*iter % 2){
       iter = vi.insert(iter, *iter);
-    ++iter;
+      ++iter;
+    }
+  ++iter; //Don't forget to increase the iterator for each loop.
   }
-
   return 0;
 }
