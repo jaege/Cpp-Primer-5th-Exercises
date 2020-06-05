@@ -20,8 +20,11 @@ int main() {
     maxDuplicatedWord = duplicatedWord;
     maxCnt = cnt;
   }
-  std::cout << maxDuplicatedWord << " occurs " << maxCnt
-            << " time" << (maxCnt > 1 ? "s" : "") << ". " << std::endl;
-
+  if (maxCnt > 1) {
+    std::cout << maxDuplicatedWord << " occurs " << maxCnt
+              << " times." << std::endl;
+  } else {
+    std::cout << "No word was repeated." << std::endl;
+  }
   return 0;
 }
