@@ -1,9 +1,9 @@
 int main() {
   // (a)
   'a';   // character literal, type is `char`
-  L'a';  // wild character literal, type is `wchar_t`
+  L'a';  // wide character literal, type is `wchar_t`
   "a";   // character string literal
-  L"a";  // wild character string literal
+  L"a";  // wide character string literal
 
   // (b)
   10;    // integral literal, type is `int`
