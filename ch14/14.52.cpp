@@ -47,7 +47,6 @@ int main() {
   ld = si + ld;  // Error
   // candidate functions
   //   all built-in operator+
-  //   LongDouble::operator+(const SmallInt&)
   //   operator+(LongDouble&, double)
   //   operator+(const SmallInt&, const SmallInt&)
   //
