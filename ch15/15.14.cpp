@@ -27,7 +27,7 @@ int main() {
   dobj.print(std::cout);
   // (c) base::name();
   bp1->name();
-  // (d) base::name();
+  // (d) derived::name();
   bp2->name();
   // (e) base::print();
   br1.print(std::cout);
