@@ -4,7 +4,7 @@
 void sum_adjacent(const std::vector<int> &v) {
   if (v.size() < 2)
     return;
-  for (decltype(v.size()) i = 0; i < v.size() - 1; ++i)
+  for (decltype(v.size()) i = 0; i + 1 < v.size(); ++i)
     std::cout << v[i] + v[i + 1] << '\t';
   std::cout << std::endl;
 }
