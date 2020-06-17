@@ -1,30 +1,34 @@
 #include <iostream>
 #include <string>
 
-int main() {
-  std::string word, duplicatedWord, maxDuplicatedWord;
-  unsigned cnt = 0, maxCnt = 0;
-  while (std::cin >> word) {
-    if (word == duplicatedWord)
-      ++cnt;
-    else {
-      if (cnt > maxCnt) {
-        maxDuplicatedWord = duplicatedWord;
-        maxCnt = cnt;
-      }
-      duplicatedWord = word;
-      cnt = 1;
-    }
-  }
-  if (cnt > maxCnt) {
-    maxDuplicatedWord = duplicatedWord;
-    maxCnt = cnt;
-  }
-  if (maxCnt > 1) {
-    std::cout << maxDuplicatedWord << " occurs " << maxCnt
-              << " times." << std::endl;
-  } else {
-    std::cout << "No word was repeated." << std::endl;
-  }
-  return 0;
+int main()
+{
+	int repetition = 1;
+	int occur = 1;
+	std::string largest;
+	std::string s;
+	std::string temp;
+
+	while (std::cin >> s)
+	{
+		if (temp != s)
+		{
+			temp = s;	
+		}
+		else
+		{	
+			++occur;
+			if (occur > repetition)
+			{
+				repetition = occur;
+				largest = s;
+			}				
+		}
+	}
+	if (repetition > 1)
+		std::cout << largest << "occured: " << repetition;
+	else
+		std::cout << "no repetiotion";
+
+	return 0;
 }
