@@ -9,7 +9,6 @@ int main() {
       if (item.isbn() == curItem.isbn())
         ++cnt;
       else {
-        std::cout << curItem.isbn() << " " << cnt << std::endl;
         curItem = item;
         cnt = 1;
       }
