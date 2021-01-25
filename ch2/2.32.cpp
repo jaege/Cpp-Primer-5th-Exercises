@@ -2,6 +2,9 @@
 
 int main() {
   //int null = 0, *p = null;  // Error: type mismatch
+  
+  // Method 0
+  int null = 0, *p = &null;
 
   // Method 1
   const int null1 = 0;
