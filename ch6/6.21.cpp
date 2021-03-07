@@ -1,3 +1,3 @@
-int largerInt(int a, int *pb) {
-  return a > *pb ? a : *pb;
+int largerInt(const int& a, const int* const pb) {
+  return (a > *pb) ? a : *pb;
 }
