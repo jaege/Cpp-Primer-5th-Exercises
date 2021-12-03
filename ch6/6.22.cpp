@@ -20,7 +20,9 @@ int main() {
   swapIntPtr(&pi, &pj);
   std::cout << "pi = " << pi << " *pi = " << *pi << std::endl;
   std::cout << "pj = " << pj << " *pj = " << *pj << std::endl;
-  swapIntPtr(pi, pj);
+  
+  int **ppi = &pi, **ppj = &pj; // pointer to pointer
+  swapIntPtr(ppi, ppj);
   std::cout << "pi = " << pi << " *pi = " << *pi << std::endl;
   std::cout << "pj = " << pj << " *pj = " << *pj << std::endl;
 
