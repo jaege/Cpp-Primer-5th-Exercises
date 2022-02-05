@@ -5,8 +5,11 @@ class HasPtr {
 public:
   HasPtr(const std::string &s = std::string())
       : ps(new std::string(s)), i(0) {}
-  HasPtr(const HasPtr &ori)
-      : ps(new std::string(*ori.ps)), i(ori.i) {}
+  HasPtr(const HasPtr &ori) {
+    auto nps = ori.ps;
+        delete ps;
+        ps = new string(*nps);
+  }
 
   const std::string &get() const { return *ps; }
   void set(const std::string &s) { *ps = s; }
