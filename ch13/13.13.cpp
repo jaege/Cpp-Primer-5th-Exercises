@@ -5,7 +5,7 @@
 struct X {
   X() { ++i; j = i; std::cout << "X() " << j << std::endl; }
   X(const X &) { ++i; j = i; std::cout << "X(const X &) " << j << std::endl; }
-  X &operator=(const X &) { std::cout << "operator= " << j << std::endl; }
+  X &operator=(const X &) { std::cout << "operator= " << j << std::endl; return *this; }
   ~X() { std::cout << "~X() " << j << std::endl; }
   static int i;
   int j;
