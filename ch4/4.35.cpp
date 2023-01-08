@@ -9,9 +9,10 @@ int main() {
   // 'a' is promoted to `int`, then added to `3`, then converted to `char`.
 
   fval = ui - ival * 1.0;
-  // `ival` is converted to double, then multiplied by `1.0`. The result is
-  // converted to `unsigned int`, then subtracted by `ui`. The result is
+  // `ival` is converted to double, then multiplied by `1.0`. `ui` is converted
+  // to `double`, then the subtraction is carried out. The result is
   // converted to `float`, then assigned to `fval`.
+
 
   dval = ui * fval;
   // Since `float` usually has more bits then `unsigned int`, `ui` is converted
